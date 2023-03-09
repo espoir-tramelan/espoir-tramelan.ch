@@ -1,13 +1,13 @@
-+++
+---
 banner:
   - uploads/2020_021.png
-enddate = 2020-07-17T00:00:00Z
-location = "Tramelan"
-startdate = 2020-07-11T00:00:00Z
-teaser = "Un souffle de magie"
-title = "Hollywood 2020"
+enddate: 2020-07-17T00:00:00Z
+location: Tramelan
+startdate: 2020-07-11T00:00:00Z
+teaser: Un souffle de magie
+title: Hollywood 2020
 
-+++
+---
 **Cette année, la magie fût à l’honneur sous les projecteurs d’Hollywood.** Un joli défi à relever pour notre équipe de tournage. C’est 23 apprenties-sorcières et apprentis-sorciers qui se sont retrouvé-e-s au chalet des Bises à Tramelan, dans le monde de Harry Potter.
 
 Pour faire tomber les masques (!) et faire un premier pas dans cet univers enchanté, la semaine commence par la soirée défis ; métamorphoses, potions, et confection d’un herbier sont entre autres au programme. Des compétences directement utilisées le lendemain, lors des interrogatoires des professeures de magie, pour trouver la coupable de la soirée Cluédo. Mais les aventures ne sont pas finies ! Le groupe perd ses pouvoirs lors des aquagames, et doit se mouiller un peu pour les retrouver. Puis les élèves s’affrontent dans différentes joutes, allant des chasses à numéros mémorables, aux parties de Quidditch pleines de suspens. Mais la semaine comprend aussi des moments  plus calmes, comme la soirée prévention sur les préjugés et les discriminations, ou les moments de partage du soir.

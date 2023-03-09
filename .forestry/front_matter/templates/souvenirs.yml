@@ -31,8 +31,6 @@ fields:
     display_utc: false
 - name: banner
   type: text
-  config:
-    required: false
   label: banner
 pages:
 - content/souvenirs/automne-detente.md
