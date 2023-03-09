@@ -18,7 +18,7 @@ jobs:
         env:
           TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
-        #run: npx @tinacms/cli@latest build -v
+        run: npx @tinacms/cli@latest build -v
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
