@@ -11,14 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: npm install
+#      - name: Install dependencies
+#        run: npm install
 
-      - name: Build TinaCMS
-        env:
-          TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
-          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
-        #run: npx @tinacms/cli@latest build -v
+#      - name: Build TinaCMS
+#        env:
+#          TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
+#          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+#        run: npx @tinacms/cli@latest build -v
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
