@@ -1,0 +1,15 @@
+---
+label: faq
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: shortanswer
+  label: shortanswer
+pages:
+- content/faq/comment-soutenir-l-espoir-tramelan.md

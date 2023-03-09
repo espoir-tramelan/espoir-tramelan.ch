@@ -1,0 +1,63 @@
+---
+label: camps
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date de publication
+  hidden: true
+  default: now
+- name: open
+  type: boolean
+  label: open
+- name: full
+  type: boolean
+  label: full
+- type: text
+  name: startdate
+  label: startdate
+- type: text
+  name: enddate
+  label: enddate
+- name: ensavoirplus
+  type: text
+  config:
+    required: false
+  label: ensavoirplus
+- name: form
+  type: text
+  config:
+    required: false
+  label: form
+- type: text
+  name: location
+  label: location
+- name: locationlink
+  type: text
+  config:
+    required: false
+  label: location link
+  default: https://www.chaletlerefuge.ch/
+- type: text
+  name: teaser
+  label: teaser
+- type: text
+  name: age
+  label: age
+- type: text
+  name: price
+  label: price
+- type: text
+  name: banner
+  label: banner
+- type: text
+  name: responsable
+  label: responsable
+pages:
+- content/camps/automne-detente.md
+- content/camps/bol-d-air.md
+- content/camps/hollywood.md
