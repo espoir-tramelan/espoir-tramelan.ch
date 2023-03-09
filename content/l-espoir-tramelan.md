@@ -1,6 +1,6 @@
-+++
+---
 
-+++
+---
 # L'Espoir Tramelan est un mouvement bénévole qui organise des camps.
 
 Le but est de permettre à des enfants et adolescent·e·s de vivre une semaine trépidante avec d'autres jeunes de leur âge. L'accent est mis sur le vécu. Que cela soit par le sport, l'expression, le bricolage, les partages, nous cherchons à communiquer une vie saine aux campeuses et aux campeurs.

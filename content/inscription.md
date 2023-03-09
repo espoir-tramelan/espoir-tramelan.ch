@@ -1,7 +1,7 @@
-+++
-title = "Accusé de réception"
+---
+title: Accusé de réception
 
-+++
+---
 # Merci!
 
 Votre inscription nous est bien arrivée. Notre secrétariat prendra contact avec vous pour vous confirmer l'inscription dès que possible.

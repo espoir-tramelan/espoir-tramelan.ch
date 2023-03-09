@@ -1,9 +1,9 @@
-+++
-date = 2021-05-18T22:00:00Z
-shortanswer = "Des aides financières sont possibles sur demande auprès du secrétariat."
-title = "Comment obtenir une aide financière ?"
+---
+date: 2021-05-18T22:00:00Z
+shortanswer: Des aides financières sont possibles sur demande auprès du secrétariat.
+title: Comment obtenir une aide financière ?
 
-+++
+---
 Aides financières:
 
 * Réduction de CHF 30.– dès le deuxième enfant d’une même fa­mille inscrit∙e dans le même camp. 
