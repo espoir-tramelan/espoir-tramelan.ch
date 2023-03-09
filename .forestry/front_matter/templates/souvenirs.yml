@@ -29,8 +29,10 @@ fields:
     date_format: DD MMMM YYYY
     time_format: 
     display_utc: false
-- type: image_gallery
-  name: banner
+- name: banner
+  type: text
+  config:
+    required: false
   label: banner
 pages:
 - content/souvenirs/automne-detente.md
