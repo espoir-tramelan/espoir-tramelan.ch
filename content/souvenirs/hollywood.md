@@ -1,8 +1,8 @@
 +++
-banner = ["uploads/2020_021.png"]
-enddate = 2020-07-17
+banner = "uploads/2020_021.png"
+enddate = 2020-07-17T00:00:00Z
 location = "Tramelan"
-startdate = 2020-07-11
+startdate = 2020-07-11T00:00:00Z
 teaser = "Un souffle de magie"
 title = "Hollywood 2020"
 
