@@ -13,10 +13,10 @@ jobs:
 
       - name: Build TinaCMS
         env:
-	    CLIENT_ID: ${{ vars.TINA_PUBLIC_CLIENT_ID }}
-	    TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+          CLIENT_ID: ${{ vars.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ vars.TINA_TOKEN }}
         run: ${{ steps.detect-package-manager.outputs.runner }} tinacms build
-	  
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
