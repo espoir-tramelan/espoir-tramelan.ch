@@ -7,7 +7,7 @@
 		  <p class="lead">{{ markdownify .Params.teaser }}</p>
 		{{ end }}
 		{{ if .Params.startdate }}
-		  <p class="sublead">Du {{ .Params.startdate }} au {{ if .Params.enddate }}{{ .Params.enddate }}{{ end }} à {{ if .Params.location }}{{ .Params.location }}{{ end }}</p>
+		  <p class="sublead">Du {{ dateFormat "2 Janvier" .Params.startdate }} au {{ if .Params.enddate }}{{ dateFormat "2 Janvier 2006" .Params.enddate }}{{ end }} à {{ if .Params.location }}{{ .Params.location }}{{ end }}</p>
 		{{ end }}
 		{{ if .Params.banner }}
 			<div class="banner">
