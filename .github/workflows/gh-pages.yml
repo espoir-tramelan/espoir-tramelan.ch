@@ -11,6 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Build TinaCMS
+        env:
+	    CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+	    TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: ${{ steps.detect-package-manager.outputs.runner }} tinacms build
+	  
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
