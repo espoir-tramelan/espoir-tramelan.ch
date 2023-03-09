@@ -1,5 +1,5 @@
 +++
-banner = "uploads/2020_007.png"
+banner = "uploads/2020_007.png,uploads/2020_007.png"
 enddate = 2020-10-09T22:00:00Z
 location = "Tramelan"
 startdate = 2020-10-03T22:00:00Z
