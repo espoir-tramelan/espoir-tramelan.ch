@@ -9,6 +9,15 @@
 	
 	{{.Content}}
 	
+	{{ if .Params.videolink }}
+	<section class="homepage-section">
+	<h2>En 30 secondes</h2>
+	<div class="video-responsive">
+		<iframe class="video-responsive-item" src="{{ .Params.videolink }}" width="640" height="360" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	</section>
+	{{ end }}
+	
 	<section class="homepage-section">
 	<h2>Découvrez nos camps</h2>
 	  <div class="listing-camps">
