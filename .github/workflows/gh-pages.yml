@@ -15,10 +15,11 @@ jobs:
         run: npm install
 
       - name: Build TinaCMS
+        uses: tinacms/cli@1.3.1
         env:
           CLIENT_ID: ${{ vars.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ vars.TINA_TOKEN }}
-        run: npx @tinacms/cli@latest build
+        run: ${{ steps.detect-package-manager.outputs.runner }} tinacms build
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
