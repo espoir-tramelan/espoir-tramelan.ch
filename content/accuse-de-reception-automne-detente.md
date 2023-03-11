@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Accusé de réception - Automne Détente"
 
 +++
