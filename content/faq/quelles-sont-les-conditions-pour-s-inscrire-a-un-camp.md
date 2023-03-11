@@ -4,7 +4,7 @@ shortanswer = "À lire attentivement avant de s'inscrire!"
 title = "Quelles sont les conditions pour s'inscrire à un camp?"
 
 +++
-## Inscriptions
+### Inscriptions
 
 Les inscriptions se font généralement sur notre site internet. Nous mettons à disposition un coupon-réponse papier si vous nous en faites la demande par mail.
 
@@ -13,17 +13,18 @@ jours une confirmation d’inscription accompagnée des coordonnées bancaires a
 
 Votre inscription sera considérée comme ferme dès la réception de votre paiement. L'intégralité du montant doit être réglée dans les 30 jours suivants réception de la facture, faute de quoi votre inscription sera mise en attente.
 
-## Annulation
+### Annulation
 
 L'inscription est considérée comme ferme dès la réception de votre paiement. En cas de désistement, vous avez trente jours dès réception de la confirmation d'inscription pour  nous prévenir par écrit, faute de quoi une somme de 50.- couvrant les frais engagés jusqu'alors pourra être exigée. Lorsque le désistement survient dans la semaine qui précède le camp, l'inscription ne sera pas remboursée, sauf en cas de raisons légitimes.
 
-## Assurances
+### Assurances
 
 Chaque participant·e doit être personnellement assuré·e pour la maladie, les accidents et la responsabilité civile (RC).
 
-## Participation
+### Participation
 
-Chaque participant·e s'engage à:  
+Chaque participant·e s'engage à:
+
 * participer activement à toutes les activités du camp,
 * respecter les règles de vie du camp ainsi que l'autorité de l'équipe encadrante,
 * faire preuve d'ouverture et de respect envers les autres participant·e·s,
