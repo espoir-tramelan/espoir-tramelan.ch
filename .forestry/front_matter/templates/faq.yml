@@ -12,4 +12,5 @@ fields:
   name: shortanswer
   label: shortanswer
 pages:
+- content/faq/comment-se-rendre-au-camp.md
 - content/faq/comment-soutenir-l-espoir-tramelan.md
