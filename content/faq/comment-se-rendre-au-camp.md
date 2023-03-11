@@ -1,5 +1,5 @@
 +++
-date = 2023-03-10T23:00:00Z
+date = 2021-05-22T22:00:00Z
 shortanswer = "Par vos propre moyens, ou en voyage accompagné selon le camp."
 title = "Comment se rendre au camp?"
 
