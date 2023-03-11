@@ -1,5 +1,5 @@
 +++
-date = 2023-03-10T23:00:00Z
+date = 2021-05-23T22:00:00Z
 shortanswer = ""
 title = "Quelles sont les conditions pour s'inscrire à un camp?"
 
