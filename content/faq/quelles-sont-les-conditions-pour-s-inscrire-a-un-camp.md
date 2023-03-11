@@ -1,6 +1,6 @@
 +++
 date = 2021-05-23T22:00:00Z
-shortanswer = ""
+shortanswer = "À lire attentivement avant de s'inscrire!"
 title = "Quelles sont les conditions pour s'inscrire à un camp?"
 
 +++
