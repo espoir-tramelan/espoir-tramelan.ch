@@ -10,7 +10,7 @@ startdate: 8 juillet 2023
 teaser: 30 ans d'existence et toujours aussi fou. Rejoins-nous pour une semaine de
   folie.
 open: true
-full: false
+full: true
 form: https://tally.so/r/mKzLBk
 ensavoirplus: Découvrir notre camp
 banner:
