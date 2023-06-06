@@ -23,5 +23,5 @@ Les camps accueillent entre quinze et trente participant·e·s. Ce sont des enfa
 * **Membre:** Megan Engels
 * **Membre:** Romane Charpié
 * **Membre:** Sylvain Heiniger
-* **Membre:** Clélio Kaufmann
+* **Membre:** Maude Quartier
 * **Membre:** Matthieu Paupe
