@@ -1,9 +1,9 @@
-+++
-date = 2021-05-23T22:00:00Z
-shortanswer = "À lire attentivement avant de s'inscrire!"
-title = "Quelles sont les conditions pour s'inscrire à un camp?"
+---
+date: 2021-05-23T22:00:00Z
+shortanswer: À lire attentivement avant de s'inscrire!
+title: Quelles sont les conditions pour s'inscrire à un camp?
 
-+++
+---
 ### Inscriptions
 
 Les inscriptions se font généralement sur notre site internet. Nous mettons à disposition un coupon-réponse papier si vous nous en faites la demande par mail.

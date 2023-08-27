@@ -9,6 +9,7 @@ title: Automne Détente 2020
 _template: souvenirs
 ---
 
+
 Malgré une année 2020 sous la coupe du Covid 19, Autonome Détente a retroussé ses gants pour permettre à tous les campeurs et moniteurs d’élever la barre des années précédentes en termes de joie, de convivialité, de surprises, d’émotion et d’ambiance !
 
 Après prise de température, il s’est avéré que ceci fût une réussite ! Tous les campeurs sont arrivés pleins d’énergie et sont repartis, épuisés d’avoir eu à user de leurs plus beaux sourires sur une semaine entière, qui s’est chargée au fil des jours de superbes souvenirs. La semaine de camp a été placée sous le thème du cinéma. Les campeurs ont dû se mobiliser pour élaborer l’affiche de leur film afin d’attirer au mieux l’œil du public, rédiger un script digne des plus grands scénarios pour finalement passer à la réalisation de leur tournage avec des costumes fantastiques et plus originaux les uns que les autres ! Projetés à la soirée de gala le vendredi soir, les films ont tous été soumis à une remise des prix distribués dans de multiples disciplines et l’on peut dire que chaque film valait véritablement l’Oscar !

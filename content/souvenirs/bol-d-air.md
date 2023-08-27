@@ -9,6 +9,7 @@ title: Bol d'Air 2020
 _template: souvenirs
 ---
 
+
 **Et oui ! Les dernières mesures de l’OFSP nous ont autorisés à faire ce camp tant attendu par les campeurs et les moniteurs.** C’est donc avec beaucoup d’enthousiasme mais aussi quelque peu d’appréhension que nous nous sommes tous retrouvés en ce début d’été sur les hauts de Tramelan, pour passer une belle semaine remplie de partages et d’amitiés.
 
 Désinfectants, thermomètre infrarouge ou encore distanciation sociale étaient certes de la partie cette année, mais n’ont rien enlevé à la magie des activités ou des moments de recueillement qu’offre ce camp de l’Espoir Tramelan.
