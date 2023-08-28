@@ -4,10 +4,10 @@ import { faqFields } from "./templates";
 import { souvenirsFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+// const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
-  branch,
+  branch: dev,
   clientId: process.env.TINA_PUBLIC_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_TOKEN, // Get this from tina.io
   client: { skip: true },
