@@ -21,10 +21,10 @@ function updateStaticCache() {
 	.then( staticCache => {
 		// These items must be cached for the Service Worker to complete installation
 		return staticCache.addAll([
-			'/css/style.css?' + version,
-			'/css/aos.css?' + version,
-			'/js/aos.js?' + version,
-			'/images/espoir-tramelan-sigle.png?' + version
+			'css/style.css?' + version,
+			'css/aos.css?' + version,
+			'js/aos.js?' + version,
+			'images/espoir-tramelan-sigle.png?' + version
 		]);
 	});
 }
