@@ -14,6 +14,7 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "static",
+    basePath: "espoir-tramelan.ch",
   },
   media: {
     tina: {
