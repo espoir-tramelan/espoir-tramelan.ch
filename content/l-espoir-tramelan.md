@@ -3,7 +3,7 @@
 
 Le but est de permettre à des enfants et adolescent·e·s de vivre une semaine trépidante avec d'autres jeunes de leur âge. L'accent est mis sur le vécu. Que cela soit par le sport, l'expression, le bricolage, les partages, nous cherchons à communiquer une vie saine aux campeuses et aux campeurs.
 
-Les camps accueillent entre quinze et trente participant·e·s. Ce sont des enfants ou des jeunes de tous les cantons et de tous les horizons. Les responsables sont des adultes expérimentés ayant suivi une formation. Les monitrices et moniteurs sont des jeunes dès 17 ans, ayant également suivi une formation adéquate. Des stagiaires, dès 15 ans, complètent l'équipe d'encadrement.
+Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants ou des jeunes de tous les cantons et de tous les horizons. Les responsables sont des adultes expérimentés ayant suivi une formation. Les monitrices et moniteurs sont des jeunes dès 17 ans, ayant également suivi une formation adéquate. Des stagiaires, dès 15 ans, complètent l'équipe d'encadrement.
 
 ## L'Espoir Tramelan a pour buts:
 
