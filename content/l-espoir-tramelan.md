@@ -12,7 +12,7 @@ Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants o
 * de promouvoir, par ses activités, une vie saine en faisant de la prévention primaire : faire réfléchir l'enfant à ses attitudes face à un groupe, à ses valeurs, à ses besoins et à l’estime qu'il a de soi. Dans cette optique, l'attitude de l'équipe encadrante fait partie intégrante de la prévention : faire envie et être un modèle par sa vie saine pendant le camp.
 * de sensibliser les enfants et les jeunes aux valeurs qui fondent notre société, telles que le partage, la confiance, le respect et la bienveilance, que l'on retrouve notamment dans l'esprit chrétien. Qu'elles soient perçues de manière laïque ou chrétienne, ces valeurs forgent l'atmosphère qui guide nos camps.
 
-# Le comité
+## Le comité
 
 * **Présidente:** Oriane Grosvernier
 * **Vice Président:** Mathieu Charpié
@@ -24,7 +24,7 @@ Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants o
 * **Membre:** Maude Quartier
 * **Membre:** Matthieu Paupe
 
-# Statuts
+## Statuts
 
 Vous pouvez télécharger nos statuts ci-dessous:
 
