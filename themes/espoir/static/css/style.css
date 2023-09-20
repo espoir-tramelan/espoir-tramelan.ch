@@ -923,11 +923,6 @@ footer{
    animation-fill-mode:forwards;
 }
 
-#anniversaire a {
-  color: white;
-  text-decoration-line: none;
-}
-
 @-webkit-keyframes pulse{
   0%{
     opacity: 0;
