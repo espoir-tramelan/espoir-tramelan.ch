@@ -907,11 +907,7 @@ footer{
 
 /* 10 ans! */
 
-#10ans{
-  height:50px;
-  width:150px;
-  left:200px;
-  top:20px;
+#anniversaire {
   padding: 10px 20px 10px 20px;
   border-radius:5px;
   position:relative;
@@ -925,6 +921,11 @@ footer{
   opacity: 0;
   -webkit-animation-fill-mode:forwards;
    animation-fill-mode:forwards;
+}
+
+#anniversaire a {
+  color: white;
+  text-decoration-line: none;
 }
 
 @-webkit-keyframes pulse{
