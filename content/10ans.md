@@ -12,5 +12,9 @@ Au [chalet le refuge](https://www.chaletlerefuge.ch/ "Chalet le Refuge"), à Tra
 ## Programme
 
 * Chasse à numéros
-* Jeux pour tous aâges
+* Jeux pour tous âges
 * Petite restauration
+
+## Inscriptions
+
+Merci de vous inscrire ici: [https://tally.so/r/wdaogz](https://tally.so/r/wdaogz)
