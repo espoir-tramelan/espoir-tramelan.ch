@@ -125,7 +125,8 @@ export function souvenirsFields() {
       label: "enddate",
     },
     {
-      type: "string",
+      type: "image",
+      ui.list: true
       name: "banner",
       label: "banner",
     },
