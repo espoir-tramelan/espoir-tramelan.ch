@@ -4,7 +4,9 @@ teaser: 'Bol d’air pluvieux, Bol d’air heureux !'
 location: Tramelan
 startdate: 2021-07-03T22:00:00.000Z
 enddate: 2021-07-09T22:00:00.000Z
-banner: 'uploads/boldair21_1.png,uploads/boldair21_2.png'
+banner: 
+  - uploads/boldair21_1.png
+  - uploads/boldair21_2.png
 ---
 
 Début juillet, malgré une météo pluvieuse, les 38 campeuses et campeurs du camp Bol d'Air ont profité d’activités variées dans le Chalet de la Croix-Bleue : jeux de piste, bricolages, chants, soirées à thème, chasses à numéro et moments de recueillement. La danse a rythmé nos matins ; avec une nouvelle chorégraphie, « Jerusalema » ! Les enfants ont réalisé un Tangram, qu’ils ont emporté dans un sac en toile décoré par leurs soins. Aux recueillements, divers thèmes ont été abordés, dont les croyances, la confiance en soi, la générosité et la tolérance. Toute la semaine, des petites attentions ont été échangées entre anges gardiens et protégé·es... Les après-midi et soirées ont été rythmées par des jeux de folie.

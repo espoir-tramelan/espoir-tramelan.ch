@@ -4,7 +4,9 @@ teaser: C’ÉTAIT L’AVENTURE !
 location: Tramelan
 startdate: 2021-10-02T22:00:00.000Z
 enddate: 2021-10-08T22:00:00.000Z
-banner: 'uploads/automnedetente21_1.png,uploads/automnedetente21_2.png'
+banner:
+  - uploads/automnedetente21_1.png
+  - uploads/automnedetente21_2.png
 ---
 
 Cette année, l’équipe de monos d’Automne Détente a placé le camp sous le thème de l’aventure et c’est peu le dire… La semaine était chargée de recherches, d’énigmes à résoudre et de courses poursuites contre la montre pour amener son équipe à dénicher de multiples trésors mieux cachés les uns que les autres ! Il est clair qu’encore une fois l’esprit d’équipe était de vigueur pour pouvoir se sortir le plus rapidement possible d’une escape game grandeur nature, afin de retrouver le bon coupable du Cluedo ou encore parvenir à s’aventurer et s’orienter correctement dans la nuit au milieu des arbres pour arriver enfin à bon port au chalet de la Croix-Bleue !
