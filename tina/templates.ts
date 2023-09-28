@@ -126,7 +126,9 @@ export function souvenirsFields() {
     },
     {
       type: "image",
-      ui.list: true
+      ui: {
+        list: true
+      },
       name: "banner",
       label: "banner",
     },
