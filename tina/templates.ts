@@ -67,9 +67,10 @@ export function campsFields() {
       label: "price",
     },
     {
-      type: "string",
+      type: "image",
       name: "banner",
       label: "banner",
+      list: true,
     },
     {
       type: "string",
