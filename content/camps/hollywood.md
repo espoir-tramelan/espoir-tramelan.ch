@@ -1,10 +1,10 @@
 ---
 title: Hollywood
 date: 2022-03-04T10:45:51.000Z
-open: true
-full: true
-startdate: 16 juillet 2023
-enddate: 22 juillet 2023
+open: false
+full: false
+startdate: 14 juillet 2024
+enddate: 20 juillet 2024
 ensavoirplus: 'Découvrir notre camp ! '
 form: 'https://tally.so/r/w5bLqP'
 location: 'Mont Dedos, au dessus de Moutier'

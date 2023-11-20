@@ -2,16 +2,16 @@
 title: Bol d'Air
 age: de 8 à 14 ans
 date: 2022-03-04T10:46:06.000Z
-enddate: 15 juillet 2023
+enddate: 13 juillet 2024
 location: au Chalet le Refuge à Tramelan
 price: 230.- CHF
 responsable: Aurélie Fayet (Pascal Geiser)
-startdate: 8 juillet 2023
+startdate: 6 juillet 2024
 teaser: >-
   30 ans d'existence et toujours aussi fou. Rejoins-nous pour une semaine de
   folie.
-open: true
-full: true
+open: false
+full: false
 form: 'https://tally.so/r/mKzLBk'
 ensavoirplus: Découvrir notre camp
 banner:
