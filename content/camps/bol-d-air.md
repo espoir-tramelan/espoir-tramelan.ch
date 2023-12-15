@@ -12,7 +12,8 @@ teaser: >-
   folie.
 open: false
 full: false
-form: 'https://tally.so/r/mKzLBk'
+form: 'https://tally.so/r/wd9eMd'
+waitinglistform: 'https://tally.so/r/wd9eOK'
 ensavoirplus: Découvrir notre camp
 banner:
   - images/boldair_0.jpg

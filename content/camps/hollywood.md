@@ -6,7 +6,8 @@ full: false
 startdate: 14 juillet 2024
 enddate: 20 juillet 2024
 ensavoirplus: 'Découvrir notre camp ! '
-form: 'https://tally.so/r/w5bLqP'
+form: 'https://tally.so/r/wz759M'
+waitinglistform: 'https://tally.so/r/w5ZPJE'
 location: 'Mont Dedos, au dessus de Moutier'
 teaser: >-
   Viens participer à la plus incroyable des productions hollywoodiennes. silence

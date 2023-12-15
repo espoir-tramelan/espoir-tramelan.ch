@@ -12,9 +12,12 @@
 		
 		{{ if .Params.open }}
 			{{ if eq .Params.full true }}
-			<span class="camp-open camp-complet">
-				Le camp<br/>est complet
-			</span>
+				<span class="camp-open camp-complet">
+					Liste<br/>d'attente
+				</span>
+				{{ if .Params.form }}
+					<a href="{{ .Params.waitinglistform }}" target="_blank" class="button">Liste d'attente</a>
+				{{ end }}
 			{{ else }}
 				<span class="camp-open">
 					inscriptions<br/>ouvertes
@@ -95,7 +98,7 @@
 						{{ if .Params.open }}
 							{{ if eq .Params.full true }}
 							<span class="camp-open camp-complet">
-								Le camp<br/>est complet
+								Liste<br/>d'attente
 							</span>
 							{{ else }}
 							<span class="camp-open">

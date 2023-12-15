@@ -43,6 +43,11 @@ export function campsFields() {
     },
     {
       type: "string",
+      name: "waitinglistform",
+      label: "waitinglistform",
+    },
+    {
+      type: "string",
       name: "location",
       label: "location",
     },
