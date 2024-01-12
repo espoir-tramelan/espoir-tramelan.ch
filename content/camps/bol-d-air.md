@@ -5,7 +5,7 @@ date: 2022-03-04T10:46:06.000Z
 enddate: 13 juillet 2024
 location: au Chalet le Refuge à Tramelan
 price: 230.- CHF
-responsable: Aurélie Fayet (Pascal Geiser)
+responsable: Pascal Geiser
 startdate: 6 juillet 2024
 teaser: >-
   30 ans d'existence et toujours aussi fou. Rejoins-nous pour une semaine de
