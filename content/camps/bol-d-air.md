@@ -11,7 +11,7 @@ teaser: >-
   30 ans d'existence et toujours aussi fou. Rejoins-nous pour une semaine de
   folie.
 open: true
-full: false
+full: true
 form: 'https://tally.so/r/wd9eMd'
 waitinglistform: 'https://tally.so/r/wd9eOK'
 ensavoirplus: Découvrir notre camp
