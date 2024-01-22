@@ -9,6 +9,4 @@ Tu aimes le grand air et la nature, tu aimes rire, chanter, jouer, bricoler ? Al
 
 Les responsables, les monitrices et moniteurs, les cuisiniers et cuisinières sont toutes et tous bénévoles, ils rivalisent d'ingéniosité et d'imagination pour que la vie des camps et des rencontres aient une saveur unique et merveilleuse. Ils sont à l'écoute des jeunes, échangent sur les notions de prévention des dépendances ainsi que sur les valeurs phares telles que la confiance, le respect, le partage et la bienveillance, que l'on retrouve notamment dans l'esprit chrétien[*](https://espoir-tramelan.ch/faq/espoir-un-mouvement-chretien/).
 
-## Inscriptions
-
-Les inscriptions seront ouvertes le 22.01.2024 dès midi sur la page de chaque [camp](https://espoir-tramelan.ch/camps/).
+*Les inscriptions seront ouvertes le 22.01.2024 dès midi sur la page de chaque [camp](https://espoir-tramelan.ch/camps/).*
