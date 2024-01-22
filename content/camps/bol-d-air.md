@@ -10,7 +10,7 @@ startdate: 6 juillet 2024
 teaser: >-
   30 ans d'existence et toujours aussi fou. Rejoins-nous pour une semaine de
   folie.
-open: false
+open: true
 full: false
 form: 'https://tally.so/r/wd9eMd'
 waitinglistform: 'https://tally.so/r/wd9eOK'

@@ -10,4 +10,4 @@ Les responsables, les monitrices et moniteurs, les cuisiniers et cuisinières so
 
 ## Inscriptions
 
-Les inscriptions seront ouvertes le 22.01.2024 dès midi sur la page de chaque [camp](https://espoir-tramelan.ch/camps/).
+Les inscriptions sont ouvertes sur la page de chaque [camp](https://espoir-tramelan.ch/camps/).
