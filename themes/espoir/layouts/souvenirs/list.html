@@ -5,7 +5,7 @@
 	</div>
 	{{ end }}
 	<div class="listing-souvenirs">
-	{{ range .Data.Pages }}
+	{{ range sort .Data.Pages ".Params.startdate" "desc" }}
 		<article class="souvenir" data-aos="fade-up" data-aos-duration="500">
 			{{$mainBanner := index (.Params.banner) 0 }}
 			<a href="{{.Permalink}}"><img src="/{{$mainBanner}}" alt="{{ .Title }}" class="listing-souvenirs-banner" loading="lazy"/></a>

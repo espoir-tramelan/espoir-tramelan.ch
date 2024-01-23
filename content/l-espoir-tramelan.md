@@ -28,4 +28,4 @@ Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants o
 
 Vous pouvez télécharger nos statuts ci-dessous:
 
-[Statuts Espoir-Tramelan 2023](https://espoir-tramelan.ch/statuts_2023.pdf "Statuts Espoir-Tramelan 2023")
+[Statuts Espoir-Tramelan 2023](https://espoir-tramelan.ch/uploads/statuts_2023.pdf "Statuts Espoir-Tramelan 2023")
