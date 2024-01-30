@@ -3,7 +3,7 @@ title: Automne Détente
 age: de 8 à 15 ans
 date: 2022-03-04T10:46:21.000Z
 open: true
-full: false
+full: true
 form: 'https://tally.so/r/w5ZP7Z'
 waitinglistform: 'https://tally.so/r/mY4l1J'
 enddate: 12 octobre 2024
