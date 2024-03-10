@@ -21,7 +21,7 @@ Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants o
 * **Membre:** Gwendal Grall Lucas
 * **Membre:** Sylvain Heiniger
 * **Membre:** Maude Quartier
-* **Membre:** Maëlle Quartier
+* **Membre:** Maëlle André
 * **Membre:** Matthieu Paupe
 
 # Statuts
