@@ -14,14 +14,14 @@ Les camps accueillent jusqu'à quarante participant·e·s. Ce sont des enfants o
 
 # Le comité
 
-* **Présidente:** Oriane Grosvernier
-* **Vice Président:** Mathieu Charpié
+* **Président:** Mathieu Charpié
 * **Secrétaire:** Anaëlle Kaufmann
 * **Caissier:** Quentin Vuilleumier
-* **Membre:** Megan Engels
 * **Membre:** Romane Charpié
+* **Membre:** Gwendal Grall Lucas
 * **Membre:** Sylvain Heiniger
 * **Membre:** Maude Quartier
+* **Membre:** Maëlle Quartier
 * **Membre:** Matthieu Paupe
 
 # Statuts
