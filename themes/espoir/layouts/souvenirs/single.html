@@ -12,7 +12,7 @@
 		{{ if .Params.banner }}
 			<div class="banner">
 				{{ range $val := .Params.banner }}
-					<img src="/{{ $val }}" loading="lazy"/>
+					<img src="{{ $val }}" loading="lazy"/>
 				{{ end }}					
 			</div>
 		{{ end }}

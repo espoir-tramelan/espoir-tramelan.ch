@@ -30,7 +30,7 @@
 		{{ if .Params.banner }}
 			<div class="banner">
 				{{ range $val := .Params.banner }}
-					<img src="/{{ $val }}" />
+					<img src="{{ $val }}" />
 				{{ end }}					
 			</div>
 		{{ end }}
@@ -94,7 +94,7 @@
 				<article class="camp" data-aos="fade-up"
 				 data-aos-duration="500">				
 					{{$mainBanner := index (.Params.banner) 0 }}
-					<a href="{{.Permalink}}"><img src="/{{$mainBanner}}" alt="{{ .Title }}" class="listing-camps-banner" loading="lazy"/>
+					<a href="{{.Permalink}}"><img src="{{$mainBanner}}" alt="{{ .Title }}" class="listing-camps-banner" loading="lazy"/>
 						{{ if .Params.open }}
 							{{ if eq .Params.full true }}
 							<span class="camp-open camp-complet">
