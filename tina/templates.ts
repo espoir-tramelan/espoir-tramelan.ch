@@ -72,7 +72,7 @@ export function campsFields() {
       label: "price",
     },
     {
-      type: image
+      type: "image",
       component: 'list',
       field: {
         component: 'text',
@@ -134,7 +134,7 @@ export function souvenirsFields() {
       label: "enddate",
     },
     {
-      type: string
+      type: "string",
       component: 'list',
       field: {
         component: 'text',
