@@ -1,0 +1,40 @@
+fragment SouvenirsParts on Souvenirs {
+  body
+  title
+  teaser
+  location
+  startdate
+  enddate
+  banner
+}
+
+fragment CampsParts on Camps {
+  body
+  title
+  date
+  open
+  full
+  startdate
+  enddate
+  ensavoirplus
+  form
+  location
+  locationlink
+  teaser
+  age
+  price
+  banner
+  responsable
+}
+
+fragment PagesParts on Pages {
+  body
+  videolink
+}
+
+fragment FaqParts on Faq {
+  body
+  title
+  date
+  shortanswer
+}
