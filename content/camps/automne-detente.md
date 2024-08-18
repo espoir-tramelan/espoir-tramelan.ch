@@ -16,9 +16,9 @@ teaser: >-
   Un lieu unique, une ambiance unique, des activités uniques. Bref : un camp
   unique !
 banner:
-  - images/automnedetente_1.jpg
-  - images/automnedetente_0.jpg
-  - images/automnedetente_2.jpg
+  - /images/automnedetente_1.jpg
+  - /images/automnedetente_0.jpg
+  - /images/automnedetente_2.jpg
 locationlink: 'https://www.chaletlerefuge.ch/'
 _template: camps
 ---

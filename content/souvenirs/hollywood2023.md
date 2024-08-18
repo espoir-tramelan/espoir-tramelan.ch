@@ -5,9 +5,9 @@ location: Mont-Dedos
 startdate: 2023-07-16T22:00:00.000Z
 enddate: 2023-07-22T22:00:00.000Z
 banner:
-  - uploads/hollywood23-1.png
-  - uploads/hollywood23-2.png
-  - uploads/hollywood23-3.png
+  - /uploads/hollywood23-1.png
+  - /uploads/hollywood23-2.png
+  - /uploads/hollywood23-3.png
 ---
 
 Aujourd’hui nous vous emmenons en

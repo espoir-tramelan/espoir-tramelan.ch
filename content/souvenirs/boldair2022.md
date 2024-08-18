@@ -5,8 +5,8 @@ location: Tramelan
 startdate: 2022-07-08T22:00:00.000Z
 enddate: 2022-07-15T22:00:00.000Z
 banner:
-  - uploads/boldair22_1.png
-  - uploads/boldair22_2.png
+  - /uploads/boldair22_1.png
+  - /uploads/boldair22_2.png
 ---
 
 Pour ce 34ème camp Bol d’Air, le soleil était de la partie, contrairement à la dernière édition. Toute la semaine, les 38 enfants se sont appliqués aux bricolages pour créer un tableau aimanté, ont entonné les chants du chansonnier, se sont trémoussés les matins, ont partagé pendant les moments de recueillements, se sont surpassés à la chasse à numéro, ont collaborés pour les jeux de piste, se sont adonnés à des parties de balle américaine endiablées, ont accompli leurs joyeuses tâches avec enthousiasme, et bien plus encore !

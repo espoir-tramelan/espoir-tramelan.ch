@@ -17,9 +17,9 @@ teaser: >-
 age: de 13 à 17 ans
 price: 270.- CHF
 banner:
- - images/hollywood_0.jpg
- - images/hollywood_1.jpg
- - images/hollywood_2.jpg
+ - /images/hollywood_0.jpg
+ - /images/hollywood_1.jpg
+ - /images/hollywood_2.jpg
 responsable: Anaëlle Kaufmann et Sophie Lombard
 ---
 

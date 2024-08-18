@@ -16,9 +16,9 @@ form: 'https://tally.so/r/wd9eMd'
 waitinglistform: 'https://tally.so/r/wd9eOK'
 ensavoirplus: Découvrir notre camp
 banner:
-  - images/boldair_0.jpg
-  - images/boldair_1.jpg
-  - images/boldair_2.jpg
+  - /images/boldair_0.jpg
+  - /images/boldair_1.jpg
+  - /images/boldair_2.jpg
 locationlink: 'https://www.chaletlerefuge.ch/'
 _template: camps
 ---

@@ -5,8 +5,8 @@ location: Tramelan
 startdate: 2021-07-10T22:00:00.000Z
 enddate: 2021-07-16T22:00:00.000Z
 banner: 
-  - uploads/hollywood21_1.png
-  - uploads/hollywood21_2.png
+  - /uploads/hollywood21_1.png
+  - /uploads/hollywood21_2.png
 ---
 
 Au XXIème siècle, alors que la Suisse est traversée par un été pluvieux, des joueuses et des joueurs emplis de courage se retrouvent à Tramelan, en quête de nouvelles aventures…

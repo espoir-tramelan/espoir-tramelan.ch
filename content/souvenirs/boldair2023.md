@@ -5,9 +5,9 @@ location: Tramelan
 startdate: 2023-07-08T22:00:00.000Z
 enddate: 2023-07-15T22:00:00.000Z
 banner:
-  - uploads/boldair23-1.png
-  - uploads/boldair23-2.png
-  - uploads/boldair23-3.png
+  - /uploads/boldair23-1.png
+  - /uploads/boldair23-2.png
+  - /uploads/boldair23-3.png
 ---
 
 En cette 35e édition, les campeurs se sont comme d’habitude adonnés aux moments de chants, aux bricolages,

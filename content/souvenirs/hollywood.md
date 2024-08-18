@@ -1,6 +1,6 @@
 ---
 banner:
-  - uploads/2020_021.png
+  - /uploads/2020_021.png
 enddate: 2020-07-17T00:00:00.000Z
 location: Tramelan
 startdate: 2020-07-11T00:00:00.000Z

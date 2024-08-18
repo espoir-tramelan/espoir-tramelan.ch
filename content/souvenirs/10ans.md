@@ -1,8 +1,8 @@
 ---
 banner:
-  - uploads/10ans-1.png
-  - uploads/10ans-2.png
-  - uploads/10ans-3.png
+  - /uploads/10ans-1.png
+  - /uploads/10ans-2.png
+  - /uploads/10ans-3.png
 enddate: 2023-10-28T00:00:00.000Z
 location: Tramelan
 startdate: 2023-10-28T00:00:00.000Z

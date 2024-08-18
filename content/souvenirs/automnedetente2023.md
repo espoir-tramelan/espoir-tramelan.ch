@@ -5,10 +5,10 @@ location: Tramelan
 startdate: 2023-10-07T22:00:00.000Z
 enddate: 2023-10-14T22:00:00.000Z
 banner: 
-  - uploads/automnedetente23-1.png
-  - uploads/automnedetente23-2.png
-  - uploads/automnedetente23-3.png
-  - uploads/automnedetente23-4.png
+  - /uploads/automnedetente23-1.png
+  - /uploads/automnedetente23-2.png
+  - /uploads/automnedetente23-3.png
+  - /uploads/automnedetente23-4.png
 ---
 
 Organisée cette année sous le thème des

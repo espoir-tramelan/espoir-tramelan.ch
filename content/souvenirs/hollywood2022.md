@@ -5,9 +5,9 @@ location: Tramelan
 startdate: 2022-07-16T22:00:00.000Z
 enddate: 2022-07-22T22:00:00.000Z
 banner:
-  - uploads/hollywood22_1.png
-  - uploads/hollywood22_2.png
-  - uploads/hollywood22_3.png
+  - /uploads/hollywood22_1.png
+  - /uploads/hollywood22_2.png
+  - /uploads/hollywood22_3.png
 ---
 
 Oh un lapin blanc ! « Je suis en retard, je suis en retard » qu’il dit sans cesse. Et si je le suivais ? Et hop, badaboum, je tombe à l’infini... boum, me voilà à Tramelan, au merveilleux camp Hollywood !
