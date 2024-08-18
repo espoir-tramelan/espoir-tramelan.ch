@@ -72,7 +72,10 @@ export function campsFields() {
       label: "price",
     },
     {
-      type: "string",
+      component: 'list',
+      field: {
+        component: 'text',
+      },
       name: "banner",
       label: "banner",
     },
@@ -130,7 +133,10 @@ export function souvenirsFields() {
       label: "enddate",
     },
     {
-      type: "string",
+      component: 'list',
+      field: {
+        component: 'text',
+      },
       ui: {
         list: true
       },
