@@ -1,8 +1,8 @@
 ---
 title: Bol d'Air
 date: 2022-03-04T10:46:06.000Z
-open: true
-full: true
+open: false
+full: false
 startdate: 5 juillet 2025
 enddate: 12 juillet 2025
 ensavoirplus: Découvrir notre camp
