@@ -2,10 +2,10 @@
 videolink: 'https://player.vimeo.com/video/797002436'
 title: Hollywood
 date: 2022-03-04T10:45:51.000Z
-open: true
-full: true
-startdate: 14 juillet 2024
-enddate: 20 juillet 2024
+open: false
+full: false
+startdate: 13 juillet 2025
+enddate: 19 juillet 2025
 ensavoirplus: 'Découvrir notre camp ! '
 form: 'https://tally.so/r/wz759M'
 waitinglistform: 'https://tally.so/r/w5ZPJE'
@@ -15,11 +15,11 @@ teaser: >-
   Viens participer à la plus incroyable des productions hollywoodiennes. silence
   ça tourne... action!
 age: de 13 à 17 ans
-price: 270.- CHF
+price: 280.- CHF
 banner:
- - /images/hollywood_0.jpg
- - /images/hollywood_1.jpg
- - /images/hollywood_2.jpg
+  - /images/hollywood_0.jpg
+  - /images/hollywood_1.jpg
+  - /images/hollywood_2.jpg
 responsable: Anaëlle Kaufmann et Sophie Lombard
 ---
 
