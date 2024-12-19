@@ -1,6 +1,4 @@
----
 
----
 # Nous contacter
 
 ## Par courrier
@@ -9,7 +7,7 @@
 
 c/o Mathieu Charpié
 
-Rue des Deutes 7A
+Rue de la Printanière 11
 
 2720 Tramelan
 
@@ -20,9 +18,9 @@ Rue des Deutes 7A
 ## Par téléphone ou WhatsApp
 
 T: 078 215 49 34<br/>
-_lundi et mercredi de 18h à 20h_
+*lundi et mercredi de 18h à 20h*
 
 ## Nos amis
 
-Le chalet [Le Refuge](https://www.chaletlerefuge.ch/ ), un lieu idéal pour nos camps, et les vôtres!  
+Le chalet [Le Refuge](https://www.chaletlerefuge.ch/), un lieu idéal pour nos camps, et les vôtres!\
 [Jeunesse et Camps](https://www.jeunesse-et-camps.ch/) organise aussi des camps de vacances.
