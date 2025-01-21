@@ -7,8 +7,8 @@ full: false
 startdate: 13 juillet 2025
 enddate: 19 juillet 2025
 ensavoirplus: 'Découvrir notre camp ! '
-form: 'https://tally.so/r/wz759M'
-waitinglistform: 'https://tally.so/r/w5ZPJE'
+form: 'https://tally.so/r/wgYxK4'
+waitinglistform: 'https://tally.so/r/mZvL4o'
 location: au Chalet le Refuge à Tramelan
 locationlink: 'https://www.chaletlerefuge.ch/'
 teaser: >-
