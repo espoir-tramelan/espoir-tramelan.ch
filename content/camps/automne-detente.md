@@ -1,7 +1,7 @@
 ---
 title: Automne Détente
 date: 2022-03-04T10:46:21.000Z
-open: false
+open: true
 full: false
 startdate: 4 octobre 2025
 enddate: 11 octobre 2025
