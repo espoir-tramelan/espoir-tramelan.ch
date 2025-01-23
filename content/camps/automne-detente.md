@@ -2,7 +2,7 @@
 title: Automne Détente
 date: 2022-03-04T10:46:21.000Z
 open: true
-full: false
+full: true
 startdate: 4 octobre 2025
 enddate: 11 octobre 2025
 ensavoirplus: Découvrir notre camp
