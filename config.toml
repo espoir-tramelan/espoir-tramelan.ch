@@ -27,6 +27,6 @@ url = "/l-espoir-tramelan/"
 weight = 1
 [[menu.main]]
 identifier = "ag"
-name = "AG 2024"
+name = "AG 2025"
 url = "/ag/"
 weight = 5
