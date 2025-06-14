@@ -3,7 +3,7 @@ videolink: 'https://player.vimeo.com/video/797002436'
 title: Hollywood
 date: 2022-03-04T10:45:51.000Z
 open: true
-full: false
+full: true
 startdate: 13 juillet 2025
 enddate: 19 juillet 2025
 ensavoirplus: 'Découvrir notre camp ! '
