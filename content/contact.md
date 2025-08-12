@@ -13,7 +13,9 @@ Rue de la Printanière 11
 
 ## Par e-mail
 
-[info@espoir-tramelan.ch](mailto:info@espoir-tramelan.ch)**
+info💌espoir-tramelan▪️ch
+
+(avec un "@" à la place du 💌 et un "." a la place du ▪️) 
 
 ## Nos amis
 
