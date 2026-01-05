@@ -1,13 +1,13 @@
 ---
 title: Automne Détente
 date: 2022-03-04T10:46:21.000Z
-open: true
-full: true
-startdate: 4 octobre 2025
-enddate: 11 octobre 2025
+open: false
+full: false
+startdate: 3 octobre 2026
+enddate: 10 octobre 2026
 ensavoirplus: Découvrir notre camp
-form: 'https://tally.so/r/nPvWaV'
-waitinglistform: 'https://tally.so/r/w71gBZ'
+form: TBD
+waitinglistform: TBD
 location: au Chalet le Refuge à Tramelan
 locationlink: 'https://www.chaletlerefuge.ch/'
 teaser: >-
