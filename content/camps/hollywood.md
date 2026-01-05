@@ -4,8 +4,8 @@ title: Hollywood
 date: 2022-03-04T10:45:51.000Z
 open: true
 full: true
-startdate: 13 juillet 2025
-enddate: 19 juillet 2025
+startdate: 12 juillet 2026
+enddate: 18 juillet 2026
 ensavoirplus: 'Découvrir notre camp ! '
 form: 'https://tally.so/r/wgYxK4'
 waitinglistform: 'https://tally.so/r/mZvL4o'
