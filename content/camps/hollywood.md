@@ -2,13 +2,13 @@
 videolink: 'https://player.vimeo.com/video/797002436'
 title: Hollywood
 date: 2022-03-04T10:45:51.000Z
-open: true
-full: true
+open: false
+full: false
 startdate: 12 juillet 2026
 enddate: 18 juillet 2026
 ensavoirplus: 'Découvrir notre camp ! '
-form: 'https://tally.so/r/wgYxK4'
-waitinglistform: 'https://tally.so/r/mZvL4o'
+form: TBD
+waitinglistform: TBD
 location: au Chalet le Refuge à Tramelan
 locationlink: 'https://www.chaletlerefuge.ch/'
 teaser: >-
