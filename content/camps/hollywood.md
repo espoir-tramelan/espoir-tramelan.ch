@@ -7,7 +7,7 @@ full: false
 startdate: 12 juillet 2026
 enddate: 18 juillet 2026
 ensavoirplus: 'Découvrir notre camp ! '
-form: TBD
+form: 'https://tally.so/r/dW0X5K'
 waitinglistform: TBD
 location: au Chalet le Refuge à Tramelan
 locationlink: 'https://www.chaletlerefuge.ch/'
