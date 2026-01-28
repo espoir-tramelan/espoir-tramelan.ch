@@ -2,7 +2,7 @@
 videolink: 'https://player.vimeo.com/video/797002436'
 title: Hollywood
 date: 2022-03-04T10:45:51.000Z
-open: false
+open: true
 full: false
 startdate: 12 juillet 2026
 enddate: 18 juillet 2026

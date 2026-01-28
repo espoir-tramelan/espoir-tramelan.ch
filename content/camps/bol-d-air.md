@@ -1,7 +1,7 @@
 ---
 title: Bol d'Air
 date: 2022-03-04T10:46:06.000Z
-open: false
+open: true
 full: false
 startdate: 4 juillet 2026
 enddate: 11 juillet 2026
