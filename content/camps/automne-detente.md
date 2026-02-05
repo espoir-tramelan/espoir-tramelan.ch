@@ -2,7 +2,7 @@
 title: Automne Détente
 date: 2022-03-04T10:46:21.000Z
 open: true
-full: false
+full: true
 startdate: 3 octobre 2026
 enddate: 10 octobre 2026
 ensavoirplus: Découvrir notre camp
@@ -10,9 +10,7 @@ form: 'https://tally.so/r/Gxpa2k'
 waitinglistform: 'https://tally.so/r/jaoXda'
 location: au Chalet le Refuge à Tramelan
 locationlink: 'https://www.chaletlerefuge.ch/'
-teaser: >-
-  Un lieu unique, une ambiance unique, des activités uniques. Bref : un camp
-  unique !
+teaser: 'Un lieu unique, une ambiance unique, des activités uniques. Bref : un camp unique !'
 age: de 8 à 15 ans
 price: 240.- CHF
 banner:
