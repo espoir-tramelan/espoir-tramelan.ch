@@ -1,11 +1,12 @@
-# Assemblée Générale 2025
+
+# Assemblée Générale 2026
 
 L'assemblée générale de notre association aura lieu le
 
-__Samedi 29 mars 2025 à 10h30 à Bienne__
+**Samedi 25 avril 2026 à 10h30 à Yverdon**
 
-L'adresse est la suivante: Église évangélique des Écluses, Rue Jakob-Stämpfli 3, 2502 Bienne BE 
+L'adresse est la suivante: L'Étoile, Rue du Four 21, Yverdon-les-Bains
 
-Vous trouvez le PV de l'année 2024 en [cliquant ici](../uploads/PV_AG_2024_ET.pdf) .
+Vous trouvez le PV de l'année 2025 en [cliquant ici](../uploads/PV-AG-ET-2025.pdf) .
 
-Nous nous réjouissons de vous y revoir nombreux-ses ! 
+Nous nous réjouissons de vous y revoir nombreux-ses !
