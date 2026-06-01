@@ -5,28 +5,3 @@ theme = "espoir"
 title = "l'Espoir Tramelan - association bénévole qui organise des camps pour les jeunes (enfants et adolescent·e·s) en Suisse-Romande"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-identifier = "camps"
-name = "Les camps"
-url = "/camps/"
-weight = 2
-[[menu.main]]
-identifier = "contact"
-name = "Nous contacter"
-url = "/contact/"
-weight = 4
-[[menu.main]]
-identifier = "faq"
-name = "Vos questions"
-url = "/faq/"
-weight = 3
-[[menu.main]]
-identifier = "l-espoir-tramelan"
-name = "l'Espoir Tramelan"
-url = "/l-espoir-tramelan/"
-weight = 1
-[[menu.main]]
-identifier = "ag"
-name = "AG 2026"
-url = "/ag/"
-weight = 5

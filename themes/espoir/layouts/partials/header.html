@@ -27,7 +27,7 @@
 			{{ with .Site.Data.menu.main }}
 			{{ range . }}
 			<li>
-				<a href="{{ .URL | relURL }}">{{ .Name }}</a>
+				<a href="{{ .url | relURL }}">{{ .name }}</a>
 			</li>
 			{{ end }}
 			{{ end }}
