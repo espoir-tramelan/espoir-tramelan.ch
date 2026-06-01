@@ -24,7 +24,7 @@
 	<nav role="menubar" id="menu">
 		<ul data-aos="fade-down"
 		 data-aos-duration="200">
-			{{ with .Site.Menus.main }}
+			{{ with .Site.Data.menu.main }}
 			{{ range . }}
 			<li>
 				<a href="{{ .URL | relURL }}">{{ .Name }}</a>

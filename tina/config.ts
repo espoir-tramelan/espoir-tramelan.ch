@@ -25,6 +25,33 @@ export default defineConfig({
   schema: {
     collections: [
       {
+        format: "json",
+        label: "Menu",
+        name: "menu",
+        path: "data",
+        match: { include: "menu" },
+        ui: {
+          allowedActions: { create: false, delete: false },
+        },
+        fields: [
+          {
+            name: "main",
+            label: "Menu principal",
+            type: "object",
+            list: true,
+            ui: {
+              itemProps: (item) => ({ label: item?.name }),
+            },
+            fields: [
+              { name: "name", label: "Nom affiché", type: "string", required: true },
+              { name: "url", label: "URL", type: "string", required: true },
+              { name: "identifier", label: "Identifiant", type: "string" },
+              { name: "weight", label: "Ordre", type: "number" },
+            ],
+          },
+        ],
+      },
+      {
         format: "md",
         label: "Souvenirs",
         name: "souvenirs",
