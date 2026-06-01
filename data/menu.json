@@ -1,9 +1,28 @@
 {
   "main": [
-    { "identifier": "l-espoir-tramelan", "name": "l'Espoir Tramelan", "url": "/l-espoir-tramelan/", "weight": 1 },
-    { "identifier": "camps", "name": "Les camps", "url": "/camps/", "weight": 2 },
-    { "identifier": "faq", "name": "Vos questions", "url": "/faq/", "weight": 3 },
-    { "identifier": "contact", "name": "Nous contacter", "url": "/contact/", "weight": 4 },
-    { "identifier": "ag", "name": "AG 2026", "url": "/ag/", "weight": 5 }
+    {
+      "name": "l'Espoir Tramelan",
+      "url": "/l-espoir-tramelan/",
+      "identifier": "l-espoir-tramelan",
+      "weight": 1
+    },
+    {
+      "name": "Les camps",
+      "url": "/camps/",
+      "identifier": "camps",
+      "weight": 2
+    },
+    {
+      "name": "Vos questions",
+      "url": "/faq/",
+      "identifier": "faq",
+      "weight": 3
+    },
+    {
+      "name": "Nous contacter",
+      "url": "/contact/",
+      "identifier": "contact",
+      "weight": 4
+    }
   ]
 }
