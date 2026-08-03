@@ -41,7 +41,7 @@
     "axios": "^1.16.1",
     "b4a": "^1.6.1",
     "babel-jest": "^30.4.1",
-    "babel-plugin-istanbul": "^6.1.1",
+    "babel-plugin-istanbul": "^8.0.0",
     "babel-plugin-jest-hoist": "^26.6.2",
     "babel-plugin-styled-components": "^2.0.7",
     "babel-plugin-syntax-jsx": "^6.18.0",
