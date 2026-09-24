@@ -8,7 +8,7 @@ enddate: 8 novembre 2026
 ensavoirplus: 'En savoir plus ! '
 form: 'https://tally.so/r/kdqypJ'
 waitinglistform: 'https://tally.so/r/kdqypJ'
-location: aux Rasses
+location: Les Rasses
 locationlink: 'https://ecureuils.armeedusalut.ch/'
 teaser: '20 ans, ça se fête! Grand week-end de retrouvailles du camp Hollywood.'
 age: ''
