@@ -632,7 +632,7 @@
     "strip-bom-string": "^1.0.0",
     "strip-eof": "^1.0.0",
     "strip-indent": "^3.0.0",
-    "styled-components": "^5.3.5",
+    "styled-components": "^6.6.0",
     "supports-color": "^5.5.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "swap-case": "^2.0.2",
